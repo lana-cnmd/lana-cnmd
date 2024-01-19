@@ -4,6 +4,12 @@
           <h3>Student of Programming School 21</h1>
 <div />
 
+<div id="socials" align="center">
+          <a href="linkedid_url">
+                    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
+<div />
+
+
 ### About me
 - 🌱 I’m currently learning PostgreSQL, C++
 - 📫 Reach me by [LinkedID](https://www.linkedin.com/in/ssteshina/)
