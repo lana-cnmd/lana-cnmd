@@ -1,5 +1,10 @@
+
+<div id="header" align="center">
+          <h1>Hi there, I’m Lana</h1>
+          <h3>Student of Programming School 21</h1>
+<div />
+
 ### About me
-- 👋 Hi there, I’m Lana
 - 🌱 I’m currently studying at [School 21](https://21-school.ru/)
 - 📫 Reach me by [LinkedID](https://www.linkedin.com/in/ssteshina/)
 - Speak English and a little Chinese
