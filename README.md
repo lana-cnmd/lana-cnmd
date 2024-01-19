@@ -5,8 +5,10 @@
 <div />
 
 <div id="socials" align="center">
-          <a href="linkedid_url">
-                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
+<a href="https://www.linkedin.com/in/ssteshina/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
+<a href="https://leetcode.com/nesweetlana/">
+<img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white alt="LeetCode" />        
 <div />
 
 
