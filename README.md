@@ -6,7 +6,7 @@
 
 <div id="socials" align="center">
           <a href="linkedid_url">
-                    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
+                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
 <div />
 
 
