@@ -13,8 +13,13 @@
           title = "psql" width = "40" height = "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" 
           title = "qt" width = "40" height = "40"/>&nbsp;
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?lana-cnmd=vn7n24fzkq&theme=default)
+          
+### My stat
+<div id="stat" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?lana-cnmd=vn7n24fzkq&theme=github_dark" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?lana-cnmd=vn7n24fzkq&theme=github_dark" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?lana-cnmd=vn7n24fzkq&theme=github_dark" />
+<div />
 
           
           
