@@ -16,9 +16,9 @@
           
 ### My stat
 <div id="stat" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?lana-cnmd=vn7n24fzkq&theme=default" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?lana-cnmd=vn7n24fzkq&theme=default" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?lana_cnmd=vn7n24fzkq&theme=default" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lana-cnmd&theme=default" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lana-cnmd&theme=default" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lana-cnmd&theme=default" />
 <div />
 
           
