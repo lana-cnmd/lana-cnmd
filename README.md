@@ -4,7 +4,12 @@
 - 📫 Reach me by [LinkedID](https://www.linkedin.com/in/ssteshina/)
 - Speak English and a little Chinese
 
-<!---
-lana-cnmd/lana-cnmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />&nbsp;
+          
+          
+          
+          
