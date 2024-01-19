@@ -5,7 +5,7 @@
 <div />
 
 ### About me
-- 🌱 I’m currently studying at [School 21](https://21-school.ru/)
+- 🌱 I’m currently learning PostgreSQL, C++
 - 📫 Reach me by [LinkedID](https://www.linkedin.com/in/ssteshina/)
 - Speak English and a little Chinese
 
