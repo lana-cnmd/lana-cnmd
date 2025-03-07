@@ -13,8 +13,7 @@
 
 
 ### About me
-- 🌱 I’m currently learning PostgreSQL, C++
-- 📫 Reach me by [LinkedID](https://www.linkedin.com/in/ssteshina/)
+- 🌱 I’m currently learning Golang
 - Speak English and a little Chinese
 
 ### Languages and tools
