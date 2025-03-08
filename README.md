@@ -27,16 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
      title="redis" width="40" height="40" style="display: inline-block;">
           
-          
-          
-          
-          
-### My stat
-<div id="stat" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lana-cnmd&theme=github_dark" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lana-cnmd&theme=github_dark" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lana-cnmd&theme=github_dark" />
-<div />
 
           
           
