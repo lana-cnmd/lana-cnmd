@@ -1,30 +1,24 @@
 
 <div id="header" align="center">
           <h1>Hi there, I’m Lana</h1>
-          <h3>Student of Programming School 21</h1>
-<div />
-
-<div id="socials" align="center">
-<a href="https://www.linkedin.com/in/ssteshina/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIN" />
-<a href="https://leetcode.com/nesweetlana/">
-<img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white alt="LeetCode" />        
 <div />
 
 
 ### About me
 - 🌱 I’m currently learning Golang
-- Speak English and a little Chinese
+- 🌍 Speak English and a little Chinese
+- 🎓 Alumni of Programming School 21
 
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-          title = "c" width = "40" height = "40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-          title = "cpp" width = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+           title = "go" width = "40" height = "40"/>&nbsp;        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
           title = "psql" width = "40" height = "40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" 
-          title = "qt" width = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
+           title = "postman" width = "40" height = "40"/>&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+          title = "docker" width = "40" height = "40"/>&nbsp;
+          
           
 ### My stat
 <div id="stat" align="center">
