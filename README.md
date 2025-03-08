@@ -11,13 +11,13 @@
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-           title = "go" width = "40" height = "40"/>;        
+     title="go" width="40" height="40" style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
-          title = "psql" width = "40" height = "40"/>;
+     title="psql" width="40" height="40" style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
-           title = "postman" width = "40" height = "40"/>;   
+     title="postman" width="40" height="40" style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-          title = "docker" width = "40" height = "40"/>;
+     title="docker" width="40" height="40" style="display: inline-block;">
           
           
 ### My stat
