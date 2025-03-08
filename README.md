@@ -20,7 +20,7 @@
      title="postman" width="40" height="40" style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
      title="docker" width="40" height="40" style="display: inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
      title="swagger" width="40" height="40" style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
      title="rabbitMQ" width="40" height="40" style="display: inline-block;">
