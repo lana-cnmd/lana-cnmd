@@ -5,19 +5,19 @@
 
 
 ### About me
-- 🌱 I’m currently learning Golang
-- 🌍 Speak English and a little Chinese
-- 🎓 Alumni of Programming School 21
+🌱 I’m currently learning Golang
+🌍 Speak English and a little Chinese
+🎓 Alumni of Programming School 21
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-           title = "go" width = "40" height = "40"/>&nbsp;        
+           title = "go" width = "40" height = "40"/>;        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
-          title = "psql" width = "40" height = "40"/>&nbsp;
+          title = "psql" width = "40" height = "40"/>;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
-           title = "postman" width = "40" height = "40"/>&nbsp;   
+           title = "postman" width = "40" height = "40"/>;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-          title = "docker" width = "40" height = "40"/>&nbsp;
+          title = "docker" width = "40" height = "40"/>;
           
           
 ### My stat
