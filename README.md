@@ -5,9 +5,11 @@
 
 
 ### About me
-🌱 I’m currently learning Golang
-🌍 Speak English and a little Chinese
-🎓 Alumni of Programming School 21
+<div style="text-align: center;">
+  <p>🌱 I’m currently learning Golang</p>
+  <p>🌍 Speak English and a little Chinese</p>
+  <p>🎓 Alumni of Programming School 21</p>
+</div>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
