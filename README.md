@@ -6,7 +6,7 @@
 
 ### About me
 <div style="text-align: center;">
-  <p>🌱 I’m currently learning Golang</p>
+  <p>🌱 I’m currently working and do something </p>
   <p>🌍 Speak English and a little Chinese</p>
   <p>🎓 Alumni of Programming School 21</p>
 </div>
